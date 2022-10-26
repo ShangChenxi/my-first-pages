@@ -1,2 +1,7 @@
-# my-first-pages
- 
+# Shang Chenxi
+Welcome to my website
+
+##Skills
+
+ python
+ flute
